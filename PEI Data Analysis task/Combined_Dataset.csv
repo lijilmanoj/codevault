@@ -1,0 +1,251 @@
+,Order_ID,Item,FullName,AgeGroup,Country,Status,Amount
+0,1,Keyboard,Ryan Martin,Above 30,UK,Unknown,400
+1,2,Mouse,Stephen Jones,Below 30,USA,Unknown,300
+2,3,Monitor,Janet Holmes,Above 30,UK,Unknown,12000
+3,4,Keyboard,Janet Valdez,Below 30,UK,Unknown,400
+4,5,Mousepad,Janet Valdez,Below 30,UK,Unknown,250
+5,6,Harddisk,Sandra Mcmahon,Above 30,UK,Delivered,5000
+6,7,Webcam,Rachel Larson,Below 30,UK,Unknown,350
+7,8,Mousepad,Steve Braun,Above 30,UK,Pending,200
+8,9,DDR RAM,Robin Snyder,Below 30,UK,Delivered,1500
+9,10,Headset,Brooke Durham,Above 30,UK,Unknown,900
+10,11,Keyboard,Matthew Stokes,Above 30,USA,Unknown,400
+11,12,Mouse,Sharon Warner,Above 30,USA,Pending,300
+12,13,Monitor,Erin Taylor,Above 30,UK,Pending,12000
+13,14,Keyboard,Diane Tanner,Above 30,UK,Pending,400
+14,15,Mousepad,Mary Williams,Below 30,USA,Unknown,250
+15,16,Harddisk,Adrian West,Above 30,USA,Delivered,5000
+16,17,Webcam,Jason Brown,Above 30,UAE,Delivered,350
+17,18,Mousepad,Linda Craig,Below 30,USA,Delivered,200
+18,19,DDR RAM,William Jackson,Above 30,UAE,Unknown,1500
+19,20,Headset,Michael Phelps,Above 30,UAE,Unknown,900
+20,21,Keyboard,L@rry Cole,Above 30,USA,Pending,400
+21,22,Mouse,Guy Bennett,Above 30,USA,Delivered,300
+22,23,Monitor,Regina Wong,Above 30,UK,Pending,12000
+23,24,Keyboard,Emily Thomas,Above 30,USA,Pending,400
+24,25,Mousepad,Jason Montgomery,Above 30,UK,Delivered,250
+25,26,Harddisk,Jose Poole,Above 30,USA,Delivered,5000
+26,27,Webcam,Jeremy Rodriguez,Below 30,UAE,Unknown,350
+27,28,Mousepad,Michele Rogers,Above 30,UK,Pending,200
+28,29,DDR RAM,Erica Owens,Below 30,UK,Delivered,1500
+29,30,Headset,Sharon Warner,Above 30,USA,Pending,900
+30,31,Keyboard,Mark Rogers,Below 30,USA,Pending,400
+31,32,Mouse,Emily Jones,Above 30,UK,Unknown,300
+32,33,Monitor,Zachary Williams,Below 30,UK,Delivered,12000
+33,34,Keyboard,James Keith,Above 30,UK,Unknown,400
+34,35,Mousepad,Russell Berry,Below 30,UK,Pending,250
+35,36,Harddisk,Haley Martinez,Above 30,USA,Unknown,5000
+36,37,Webcam,Paul Brown,Above 30,USA,Unknown,350
+37,38,Mousepad,Monique Wright,Above 30,UAE,Pending,200
+38,39,DDR RAM,Ryan Rojas,Above 30,UK,Unknown,1500
+39,40,Headset,Patricia Garcia,Below 30,UK,Unknown,900
+40,41,Keyboard,Rebecca Robinson,Above 30,UAE,Unknown,400
+41,42,Mouse,Brenda Lewis,Below 30,UAE,Unknown,300
+42,43,Monitor,Jade Wall,Above 30,USA,Unknown,12000
+43,44,Keyboard,Aimee Jacobs,Above 30,USA,Unknown,400
+44,45,Mousepad,Jeffrey Diaz,Above 30,USA,Delivered,250
+45,46,Harddisk,Allison Sweeney,Above 30,USA,Unknown,5000
+46,47,Webcam,Thomas Wood,Above 30,UK,Delivered,350
+47,48,Mousepad,Jeremy Andrews,Below 30,USA,Unknown,200
+48,49,DDR RAM,Nancy Miller,Above 30,UK,Pending,1500
+49,50,Headset,Sherry Parsons,Above 30,UAE,Pending,900
+50,51,Keyboard,Terry Bailey,Above 30,USA,Unknown,400
+51,52,Mouse,David Arnold,Above 30,USA,Delivered,300
+52,53,Monitor,Yesenia White,Below 30,UK,Delivered,12000
+53,54,Keyboard,Arthur Hayes,Above 30,UK,Delivered,400
+54,55,Mousepad,Stephen Sharp,Above 30,UAE,Pending,250
+55,56,Harddisk,Andrea Velasquez,Above 30,UK,Pending,5000
+56,57,Webcam,Brian Olson,Above 30,USA,Pending,350
+57,58,Mousepad,Sandra Golden,Above 30,UK,Unknown,200
+58,59,DDR RAM,Sandra Mcmahon,Above 30,UK,Delivered,1500
+59,60,Headset,Mark Rivers,Above 30,UK,Pending,900
+60,61,Keyboard,R0bert Shepherd,Below 30,UK,Delivered,400
+61,62,Mouse,Eric Harvey,Above 30,USA,Unknown,300
+62,63,Monitor,Sarah Gilbert,Above 30,USA,Unknown,12000
+63,64,Keyboard,Grace Hartman,Below 30,UAE,Delivered,400
+64,65,Mousepad,R0bert Bryan,Above 30,UK,Unknown,250
+65,66,Harddisk,Michael Mann,Above 30,UAE,Pending,5000
+66,67,Webcam,Bethany Anderson,Above 30,USA,Pending,350
+67,68,Mousepad,Brett Burns,Above 30,UK,Unknown,200
+68,69,DDR RAM,Natalie Page,Above 30,USA,Unknown,1500
+69,70,Headset,Charles Garcia,Below 30,UAE,Pending,900
+70,71,Keyboard,Juan Cruz,Below 30,UAE,Pending,400
+71,72,Mouse,David Yoder,Above 30,UK,Pending,300
+72,73,Monitor,Javier Jones,Above 30,USA,Pending,12000
+73,74,Keyboard,Maureen Bryant,Above 30,USA,Delivered,400
+74,75,Mousepad,Juan Cruz,Below 30,UAE,Pending,250
+75,76,Harddisk,Michael Williams,Above 30,UK,Pending,5000
+76,77,Webcam,Mark Rogers,Below 30,USA,Pending,350
+77,78,Mousepad,Al1cia Thompson,Above 30,USA,Unknown,200
+78,79,DDR RAM,Patricia Garcia,Below 30,UK,Unknown,1500
+79,80,Headset,Kyle Ruiz,Above 30,UK,Unknown,900
+80,81,Keyboard,John Miller,Above 30,USA,Unknown,400
+81,82,Mouse,Jessica Marshall,Below 30,USA,Delivered,300
+82,83,Monitor,Amber Banks,Above 30,UK,Delivered,12000
+83,84,Keyboard,Ruth Smith,Above 30,UK,Unknown,400
+84,85,Mousepad,Yesenia White,Below 30,UK,Delivered,250
+85,86,Harddisk,Rachel Larson,Below 30,UK,Unknown,5000
+86,87,Webcam,Jeremy Lee,Below 30,UK,Unknown,350
+87,88,Mousepad,Stephanie Hicks,Above 30,USA,Pending,200
+88,89,DDR RAM,Yesenia White,Below 30,UK,Delivered,1500
+89,90,Headset,Gabrielle Smith,Above 30,USA,Delivered,900
+90,91,Keyboard,Ryan Rojas,Above 30,UK,Unknown,400
+91,92,Mouse,Michael Case,Below 30,UAE,Pending,300
+92,93,Monitor,Philip Newton,Above 30,UK,Delivered,12000
+93,94,Keyboard,Kevin Watkins,Above 30,UAE,Pending,400
+94,95,Mousepad,Jeffrey Diaz,Above 30,USA,Delivered,250
+95,96,Harddisk,Amber Banks,Above 30,UK,Delivered,5000
+96,97,Webcam,Heather Ali,Above 30,UK,Unknown,350
+97,98,Mousepad,Christopher Doyle,Above 30,UAE,Delivered,200
+98,99,DDR RAM,Emily Thomas,Above 30,USA,Pending,1500
+99,100,Headset,Eric Levine,Below 30,USA,Unknown,900
+100,101,Keyboard,Christopher Robinson,Below 30,USA,Pending,400
+101,102,Mouse,Regina Wong,Above 30,UK,Pending,300
+102,103,Monitor,Mark R0berts,Above 30,USA,Delivered,12000
+103,104,Keyboard,Adam Holmes,Above 30,UK,Pending,400
+104,105,Mousepad,Breanna Santos,Below 30,USA,Delivered,250
+105,106,Harddisk,Robin Snyder,Below 30,UK,Delivered,5000
+106,107,Webcam,Kimberly Mora,Above 30,USA,Delivered,350
+107,108,Mousepad,Jill Kane,Above 30,USA,Unknown,200
+108,109,DDR RAM,Jason Montgomery,Above 30,UK,Delivered,1500
+109,110,Headset,Tiffany Carter,Below 30,USA,Pending,900
+110,111,Keyboard,Alejandro Bailey,Above 30,UK,Unknown,400
+111,112,Mouse,Stacey Welch,Above 30,UK,Delivered,300
+112,113,Monitor,Matthew Stokes,Above 30,USA,Unknown,12000
+113,114,Keyboard,Desiree Webster,Above 30,UK,Pending,400
+114,115,Mousepad,Xavier Miles,Above 30,USA,Pending,250
+115,116,Harddisk,Allen Wright,Above 30,UAE,Unknown,5000
+116,117,Webcam,Jason Montgomery,Above 30,UK,Delivered,350
+117,118,Mousepad,Eric Carter,Above 30,UK,Unknown,200
+118,119,DDR RAM,Anthony Nicholson,Below 30,UK,Unknown,1500
+119,120,Headset,Eric Harvey,Above 30,USA,Unknown,900
+120,121,Keyboard,Brian Palmer,Above 30,UAE,Delivered,400
+121,122,Mouse,Laura House,Above 30,UK,Unknown,300
+122,123,Monitor,Miranda Williams,Above 30,USA,Delivered,12000
+123,124,Keyboard,Javier Jones,Above 30,USA,Pending,400
+124,125,Mousepad,Patricia Garcia,Below 30,UK,Unknown,250
+125,126,Harddisk,Carolyn Green,Above 30,USA,Pending,5000
+126,127,Webcam,Jeremy Rodriguez,Below 30,UAE,Unknown,350
+127,128,Mousepad,Joseph Miller,Above 30,USA,Delivered,200
+128,129,DDR RAM,Breanna Santos,Below 30,USA,Delivered,1500
+129,130,Headset,Omar Martin,Below 30,UK,Delivered,900
+130,131,Keyboard,Juan Cruz,Below 30,UAE,Pending,400
+131,132,Mouse,April Beck,Above 30,UK,Unknown,300
+132,133,Monitor,Steve Braun,Above 30,UK,Pending,12000
+133,134,Keyboard,Margaret Hardy,Below 30,UK,Delivered,400
+134,135,Mousepad,Alyssa Walker,Above 30,UAE,Unknown,250
+135,136,Harddisk,Philip Robinson,Above 30,UK,Unknown,5000
+136,137,Webcam,Stephanie Faulkner,Below 30,UK,Pending,350
+137,138,Mousepad,Sarah Greer,Above 30,UK,Pending,200
+138,139,DDR RAM,Eric Harvey,Above 30,USA,Unknown,1500
+139,140,Headset,Brian Bowman,Above 30,UK,Unknown,900
+140,141,Keyboard,Amanda Cohen,Above 30,UK,Unknown,400
+141,142,Mouse,John Bennett,Above 30,UK,Unknown,300
+142,143,Monitor,Stacey Welch,Above 30,UK,Delivered,12000
+143,144,Keyboard,Darrell Dillon,Above 30,UAE,Delivered,400
+144,145,Mousepad,Adam Holmes,Above 30,UK,Pending,250
+145,146,Harddisk,John Miller,Above 30,USA,Unknown,5000
+146,147,Webcam,Michael Lopez,Above 30,USA,Delivered,350
+147,148,Mousepad,Philip Newton,Above 30,UK,Delivered,200
+148,149,DDR RAM,Derek Peterson,Above 30,UAE,Pending,1500
+149,150,Headset,David Yoder,Above 30,UK,Pending,900
+150,151,Keyboard,Brittany Golden,Below 30,UK,Unknown,400
+151,152,Mouse,Carolyn Green,Above 30,USA,Pending,300
+152,153,Monitor,Margaret Hardy,Below 30,UK,Delivered,12000
+153,154,Keyboard,Jeffrey Sullivan,Above 30,UK,Delivered,400
+154,155,Mousepad,John Miller,Above 30,USA,Unknown,250
+155,156,Harddisk,Michelle Edwards,Above 30,USA,Pending,5000
+156,157,Webcam,Brian Olson,Above 30,USA,Pending,350
+157,158,Mousepad,Jason Montgomery,Above 30,UK,Delivered,200
+158,159,DDR RAM,Jeffrey Diaz,Above 30,USA,Delivered,1500
+159,160,Headset,Justin Stewart,Above 30,USA,Pending,900
+160,161,Keyboard,David Yoder,Above 30,UK,Pending,400
+161,162,Mouse,James Keith,Above 30,UK,Unknown,300
+162,163,Monitor,Morgan Cooper,Below 30,USA,Unknown,12000
+163,164,Keyboard,Michele Maxwell,Above 30,UAE,Delivered,400
+164,165,Mousepad,Sarah Gilbert,Above 30,USA,Unknown,250
+165,166,Harddisk,Jodi Gonzalez,Above 30,USA,Delivered,5000
+166,167,Webcam,Stacey Welch,Above 30,UK,Delivered,350
+167,168,Mousepad,Yesenia White,Below 30,UK,Delivered,200
+168,169,DDR RAM,Al1cia Jensen,Below 30,USA,Delivered,1500
+169,170,Headset,N!cole Mcintyre,Below 30,UK,Pending,900
+170,171,Keyboard,Christy Rodriguez,Below 30,UAE,Pending,400
+171,172,Mouse,Charles Nunez,Above 30,USA,Unknown,300
+172,173,Monitor,Omar Martin,Below 30,UK,Delivered,12000
+173,174,Keyboard,Adrian West,Above 30,USA,Delivered,400
+174,175,Mousepad,Carlos Wallace,Above 30,UK,Unknown,250
+175,176,Harddisk,Brooke Durham,Above 30,UK,Unknown,5000
+176,177,Webcam,Sarah Greer,Above 30,UK,Pending,350
+177,178,Mousepad,Krystal Carroll,Above 30,UK,Unknown,200
+178,179,DDR RAM,Guy Bennett,Above 30,USA,Delivered,1500
+179,180,Headset,Emily Thomas,Above 30,USA,Pending,900
+180,181,Keyboard,Margaret Hardy,Below 30,UK,Delivered,400
+181,182,Mouse,Debbie Rogers,Above 30,USA,Pending,300
+182,183,Monitor,Christy Rodriguez,Below 30,UAE,Pending,12000
+183,184,Keyboard,Terry Bailey,Above 30,USA,Unknown,400
+184,185,Mousepad,Hannah Wu,Above 30,USA,Pending,250
+185,186,Harddisk,Morgan Cooper,Below 30,USA,Unknown,5000
+186,187,Webcam,Steven Black,Above 30,USA,Pending,350
+187,188,Mousepad,Patricia Garcia,Below 30,UK,Unknown,200
+188,189,DDR RAM,Christopher Doyle,Above 30,UAE,Delivered,1500
+189,190,Headset,Katherine Ferguson,Above 30,USA,Unknown,900
+190,191,Keyboard,Juan Cruz,Below 30,UAE,Pending,400
+191,192,Mouse,Thomas Mclaughlin,Below 30,UK,Delivered,300
+192,193,Monitor,Paul Brown,Above 30,USA,Unknown,12000
+193,194,Keyboard,Melissa Gaines,Below 30,UAE,Delivered,400
+194,195,Mousepad,Arthur Hayes,Above 30,UK,Delivered,250
+195,196,Harddisk,Taylor Reed,Above 30,USA,Delivered,5000
+196,197,Webcam,Morgan Cooper,Below 30,USA,Unknown,350
+197,198,Mousepad,Lacey Mercado,Below 30,USA,Unknown,200
+198,199,DDR RAM,Philip Newton,Above 30,UK,Delivered,1500
+199,200,Headset,Christine Smith,Above 30,UK,Pending,900
+200,201,Keyboard,R0bert Moore,Above 30,UK,Pending,400
+201,202,Mouse,Steve Braun,Above 30,UK,Pending,300
+202,203,Monitor,Chelsea Moyer,Below 30,USA,Unknown,12000
+203,204,Keyboard,Jonathan Manning,Below 30,UK,Delivered,400
+204,205,Mousepad,Brittany Golden,Below 30,UK,Unknown,250
+205,206,Harddisk,Lacey Mercado,Below 30,USA,Unknown,5000
+206,207,Webcam,Melissa Gaines,Below 30,UAE,Delivered,350
+207,208,Mousepad,Angela Bryant,Below 30,UK,Pending,200
+208,209,DDR RAM,Jonathan Middleton,Above 30,UAE,Delivered,1500
+209,210,Headset,Veronica Stein,Below 30,USA,Pending,900
+210,211,Keyboard,Janet Holmes,Above 30,UK,Unknown,400
+211,212,Mouse,Stephanie Faulkner,Below 30,UK,Pending,300
+212,213,Monitor,R0bert Shepherd,Below 30,UK,Delivered,12000
+213,214,Keyboard,Paul Brown,Above 30,USA,Unknown,400
+214,215,Mousepad,Tiffany Bowers,Above 30,USA,Unknown,250
+215,216,Harddisk,Michele Maxwell,Above 30,UAE,Delivered,5000
+216,217,Webcam,Thomas Wood,Above 30,UK,Delivered,350
+217,218,Mousepad,Javier Jones,Above 30,USA,Pending,200
+218,219,DDR RAM,Debbie Rogers,Above 30,USA,Pending,1500
+219,220,Headset,Megan Morris,Above 30,UK,Pending,900
+220,221,Keyboard,R0bert Bryan,Above 30,UK,Unknown,400
+221,222,Mouse,Kyle Ruiz,Above 30,UK,Unknown,300
+222,223,Monitor,Eric Harvey,Above 30,USA,Unknown,12000
+223,224,Keyboard,Sarah Gilbert,Above 30,USA,Unknown,400
+224,225,Mousepad,Derrick R0berts,Above 30,UK,Pending,250
+225,226,Harddisk,David Fritz,Above 30,UAE,Unknown,5000
+226,227,Webcam,James Keith,Above 30,UK,Unknown,350
+227,228,Mousepad,Janet Valdez,Below 30,UK,Unknown,200
+228,229,DDR RAM,Lacey Mercado,Below 30,USA,Unknown,1500
+229,230,Headset,Audrey Richardson,Above 30,USA,Pending,900
+230,231,Keyboard,N!cole Bennett,Above 30,USA,Unknown,400
+231,232,Mouse,Grace Hartman,Below 30,UAE,Delivered,300
+232,233,Monitor,Courtney Lopez,Above 30,USA,Unknown,12000
+233,234,Keyboard,Omar Martin,Below 30,UK,Delivered,400
+234,235,Mousepad,Connor Adams,Below 30,USA,Delivered,250
+235,236,Harddisk,Jessica Welch,Below 30,USA,Pending,5000
+236,237,Webcam,Sharon Warner,Above 30,USA,Pending,350
+237,238,Mousepad,Rebecca Robinson,Above 30,UAE,Unknown,200
+238,239,DDR RAM,Megan Morris,Above 30,UK,Pending,1500
+239,240,Headset,Brian Olson,Above 30,USA,Pending,900
+240,241,Keyboard,Zachary Davis,Below 30,UK,Delivered,400
+241,242,Mouse,Sarah Greer,Above 30,UK,Pending,300
+242,243,Monitor,Philip Robinson,Above 30,UK,Unknown,12000
+243,244,Keyboard,Vincent Kline,Above 30,UAE,Pending,400
+244,245,Mousepad,Charles Garcia,Below 30,UAE,Pending,250
+245,246,Harddisk,Xavier Miles,Above 30,USA,Pending,5000
+246,247,Webcam,Shawn Johnson,Below 30,UAE,Delivered,350
+247,248,Mousepad,Tiffany Pearson,Above 30,UAE,Delivered,200
+248,249,DDR RAM,Tiffany Bowers,Above 30,USA,Unknown,1500
+249,250,Headset,Megan Morris,Above 30,UK,Pending,900
