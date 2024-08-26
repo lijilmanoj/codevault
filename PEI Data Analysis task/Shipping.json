@@ -1,0 +1,1252 @@
+[
+  {
+    "Shipping_ID": 1,
+    "Status": "Pending",
+    "Customer_ID": 173
+  },
+  {
+    "Shipping_ID": 2,
+    "Status": "Pending",
+    "Customer_ID": 155
+  },
+  {
+    "Shipping_ID": 3,
+    "Status": "Delivered",
+    "Customer_ID": 242
+  },
+  {
+    "Shipping_ID": 4,
+    "Status": "Pending",
+    "Customer_ID": 223
+  },
+  {
+    "Shipping_ID": 5,
+    "Status": "Delivered",
+    "Customer_ID": 72
+  },
+  {
+    "Shipping_ID": 6,
+    "Status": "Pending",
+    "Customer_ID": 29
+  },
+  {
+    "Shipping_ID": 7,
+    "Status": "Pending",
+    "Customer_ID": 236
+  },
+  {
+    "Shipping_ID": 8,
+    "Status": "Delivered",
+    "Customer_ID": 193
+  },
+  {
+    "Shipping_ID": 9,
+    "Status": "Pending",
+    "Customer_ID": 199
+  },
+  {
+    "Shipping_ID": 10,
+    "Status": "Delivered",
+    "Customer_ID": 17
+  },
+  {
+    "Shipping_ID": 11,
+    "Status": "Pending",
+    "Customer_ID": 157
+  },
+  {
+    "Shipping_ID": 12,
+    "Status": "Pending",
+    "Customer_ID": 37
+  },
+  {
+    "Shipping_ID": 13,
+    "Status": "Delivered",
+    "Customer_ID": 141
+  },
+  {
+    "Shipping_ID": 14,
+    "Status": "Pending",
+    "Customer_ID": 155
+  },
+  {
+    "Shipping_ID": 15,
+    "Status": "Delivered",
+    "Customer_ID": 131
+  },
+  {
+    "Shipping_ID": 16,
+    "Status": "Pending",
+    "Customer_ID": 24
+  },
+  {
+    "Shipping_ID": 17,
+    "Status": "Pending",
+    "Customer_ID": 186
+  },
+  {
+    "Shipping_ID": 18,
+    "Status": "Delivered",
+    "Customer_ID": 177
+  },
+  {
+    "Shipping_ID": 19,
+    "Status": "Pending",
+    "Customer_ID": 129
+  },
+  {
+    "Shipping_ID": 20,
+    "Status": "Delivered",
+    "Customer_ID": 6
+  },
+  {
+    "Shipping_ID": 21,
+    "Status": "Pending",
+    "Customer_ID": 193
+  },
+  {
+    "Shipping_ID": 22,
+    "Status": "Pending",
+    "Customer_ID": 109
+  },
+  {
+    "Shipping_ID": 23,
+    "Status": "Delivered",
+    "Customer_ID": 232
+  },
+  {
+    "Shipping_ID": 24,
+    "Status": "Pending",
+    "Customer_ID": 145
+  },
+  {
+    "Shipping_ID": 25,
+    "Status": "Delivered",
+    "Customer_ID": 2
+  },
+  {
+    "Shipping_ID": 26,
+    "Status": "Pending",
+    "Customer_ID": 113
+  },
+  {
+    "Shipping_ID": 27,
+    "Status": "Pending",
+    "Customer_ID": 58
+  },
+  {
+    "Shipping_ID": 28,
+    "Status": "Delivered",
+    "Customer_ID": 93
+  },
+  {
+    "Shipping_ID": 29,
+    "Status": "Pending",
+    "Customer_ID": 182
+  },
+  {
+    "Shipping_ID": 30,
+    "Status": "Delivered",
+    "Customer_ID": 205
+  },
+  {
+    "Shipping_ID": 31,
+    "Status": "Pending",
+    "Customer_ID": 161
+  },
+  {
+    "Shipping_ID": 32,
+    "Status": "Pending",
+    "Customer_ID": 42
+  },
+  {
+    "Shipping_ID": 33,
+    "Status": "Delivered",
+    "Customer_ID": 190
+  },
+  {
+    "Shipping_ID": 34,
+    "Status": "Pending",
+    "Customer_ID": 83
+  },
+  {
+    "Shipping_ID": 35,
+    "Status": "Delivered",
+    "Customer_ID": 37
+  },
+  {
+    "Shipping_ID": 36,
+    "Status": "Pending",
+    "Customer_ID": 165
+  },
+  {
+    "Shipping_ID": 37,
+    "Status": "Pending",
+    "Customer_ID": 137
+  },
+  {
+    "Shipping_ID": 38,
+    "Status": "Delivered",
+    "Customer_ID": 245
+  },
+  {
+    "Shipping_ID": 39,
+    "Status": "Pending",
+    "Customer_ID": 54
+  },
+  {
+    "Shipping_ID": 40,
+    "Status": "Delivered",
+    "Customer_ID": 11
+  },
+  {
+    "Shipping_ID": 41,
+    "Status": "Pending",
+    "Customer_ID": 111
+  },
+  {
+    "Shipping_ID": 42,
+    "Status": "Pending",
+    "Customer_ID": 74
+  },
+  {
+    "Shipping_ID": 43,
+    "Status": "Delivered",
+    "Customer_ID": 12
+  },
+  {
+    "Shipping_ID": 44,
+    "Status": "Pending",
+    "Customer_ID": 244
+  },
+  {
+    "Shipping_ID": 45,
+    "Status": "Delivered",
+    "Customer_ID": 67
+  },
+  {
+    "Shipping_ID": 46,
+    "Status": "Pending",
+    "Customer_ID": 71
+  },
+  {
+    "Shipping_ID": 47,
+    "Status": "Pending",
+    "Customer_ID": 185
+  },
+  {
+    "Shipping_ID": 48,
+    "Status": "Delivered",
+    "Customer_ID": 175
+  },
+  {
+    "Shipping_ID": 49,
+    "Status": "Pending",
+    "Customer_ID": 9
+  },
+  {
+    "Shipping_ID": 50,
+    "Status": "Delivered",
+    "Customer_ID": 189
+  },
+  {
+    "Shipping_ID": 51,
+    "Status": "Pending",
+    "Customer_ID": 91
+  },
+  {
+    "Shipping_ID": 52,
+    "Status": "Pending",
+    "Customer_ID": 69
+  },
+  {
+    "Shipping_ID": 53,
+    "Status": "Delivered",
+    "Customer_ID": 181
+  },
+  {
+    "Shipping_ID": 54,
+    "Status": "Pending",
+    "Customer_ID": 128
+  },
+  {
+    "Shipping_ID": 55,
+    "Status": "Delivered",
+    "Customer_ID": 67
+  },
+  {
+    "Shipping_ID": 56,
+    "Status": "Pending",
+    "Customer_ID": 35
+  },
+  {
+    "Shipping_ID": 57,
+    "Status": "Pending",
+    "Customer_ID": 30
+  },
+  {
+    "Shipping_ID": 58,
+    "Status": "Delivered",
+    "Customer_ID": 156
+  },
+  {
+    "Shipping_ID": 59,
+    "Status": "Pending",
+    "Customer_ID": 30
+  },
+  {
+    "Shipping_ID": 60,
+    "Status": "Delivered",
+    "Customer_ID": 119
+  },
+  {
+    "Shipping_ID": 61,
+    "Status": "Pending",
+    "Customer_ID": 68
+  },
+  {
+    "Shipping_ID": 62,
+    "Status": "Pending",
+    "Customer_ID": 185
+  },
+  {
+    "Shipping_ID": 63,
+    "Status": "Delivered",
+    "Customer_ID": 241
+  },
+  {
+    "Shipping_ID": 64,
+    "Status": "Pending",
+    "Customer_ID": 105
+  },
+  {
+    "Shipping_ID": 65,
+    "Status": "Delivered",
+    "Customer_ID": 15
+  },
+  {
+    "Shipping_ID": 66,
+    "Status": "Pending",
+    "Customer_ID": 32
+  },
+  {
+    "Shipping_ID": 67,
+    "Status": "Pending",
+    "Customer_ID": 112
+  },
+  {
+    "Shipping_ID": 68,
+    "Status": "Delivered",
+    "Customer_ID": 232
+  },
+  {
+    "Shipping_ID": 69,
+    "Status": "Pending",
+    "Customer_ID": 86
+  },
+  {
+    "Shipping_ID": 70,
+    "Status": "Delivered",
+    "Customer_ID": 137
+  },
+  {
+    "Shipping_ID": 71,
+    "Status": "Pending",
+    "Customer_ID": 195
+  },
+  {
+    "Shipping_ID": 72,
+    "Status": "Pending",
+    "Customer_ID": 53
+  },
+  {
+    "Shipping_ID": 73,
+    "Status": "Delivered",
+    "Customer_ID": 26
+  },
+  {
+    "Shipping_ID": 74,
+    "Status": "Pending",
+    "Customer_ID": 214
+  },
+  {
+    "Shipping_ID": 75,
+    "Status": "Delivered",
+    "Customer_ID": 88
+  },
+  {
+    "Shipping_ID": 76,
+    "Status": "Pending",
+    "Customer_ID": 219
+  },
+  {
+    "Shipping_ID": 77,
+    "Status": "Pending",
+    "Customer_ID": 22
+  },
+  {
+    "Shipping_ID": 78,
+    "Status": "Delivered",
+    "Customer_ID": 112
+  },
+  {
+    "Shipping_ID": 79,
+    "Status": "Pending",
+    "Customer_ID": 204
+  },
+  {
+    "Shipping_ID": 80,
+    "Status": "Delivered",
+    "Customer_ID": 24
+  },
+  {
+    "Shipping_ID": 81,
+    "Status": "Pending",
+    "Customer_ID": 49
+  },
+  {
+    "Shipping_ID": 82,
+    "Status": "Pending",
+    "Customer_ID": 106
+  },
+  {
+    "Shipping_ID": 83,
+    "Status": "Delivered",
+    "Customer_ID": 235
+  },
+  {
+    "Shipping_ID": 84,
+    "Status": "Pending",
+    "Customer_ID": 177
+  },
+  {
+    "Shipping_ID": 85,
+    "Status": "Delivered",
+    "Customer_ID": 40
+  },
+  {
+    "Shipping_ID": 86,
+    "Status": "Pending",
+    "Customer_ID": 27
+  },
+  {
+    "Shipping_ID": 87,
+    "Status": "Pending",
+    "Customer_ID": 58
+  },
+  {
+    "Shipping_ID": 88,
+    "Status": "Delivered",
+    "Customer_ID": 199
+  },
+  {
+    "Shipping_ID": 89,
+    "Status": "Pending",
+    "Customer_ID": 66
+  },
+  {
+    "Shipping_ID": 90,
+    "Status": "Delivered",
+    "Customer_ID": 28
+  },
+  {
+    "Shipping_ID": 91,
+    "Status": "Pending",
+    "Customer_ID": 3
+  },
+  {
+    "Shipping_ID": 92,
+    "Status": "Pending",
+    "Customer_ID": 248
+  },
+  {
+    "Shipping_ID": 93,
+    "Status": "Delivered",
+    "Customer_ID": 196
+  },
+  {
+    "Shipping_ID": 94,
+    "Status": "Pending",
+    "Customer_ID": 226
+  },
+  {
+    "Shipping_ID": 95,
+    "Status": "Delivered",
+    "Customer_ID": 143
+  },
+  {
+    "Shipping_ID": 96,
+    "Status": "Pending",
+    "Customer_ID": 86
+  },
+  {
+    "Shipping_ID": 97,
+    "Status": "Pending",
+    "Customer_ID": 48
+  },
+  {
+    "Shipping_ID": 98,
+    "Status": "Delivered",
+    "Customer_ID": 160
+  },
+  {
+    "Shipping_ID": 99,
+    "Status": "Pending",
+    "Customer_ID": 106
+  },
+  {
+    "Shipping_ID": 100,
+    "Status": "Delivered",
+    "Customer_ID": 218
+  },
+  {
+    "Shipping_ID": 101,
+    "Status": "Pending",
+    "Customer_ID": 228
+  },
+  {
+    "Shipping_ID": 102,
+    "Status": "Pending",
+    "Customer_ID": 35
+  },
+  {
+    "Shipping_ID": 103,
+    "Status": "Delivered",
+    "Customer_ID": 85
+  },
+  {
+    "Shipping_ID": 104,
+    "Status": "Pending",
+    "Customer_ID": 9
+  },
+  {
+    "Shipping_ID": 105,
+    "Status": "Delivered",
+    "Customer_ID": 77
+  },
+  {
+    "Shipping_ID": 106,
+    "Status": "Pending",
+    "Customer_ID": 70
+  },
+  {
+    "Shipping_ID": 107,
+    "Status": "Pending",
+    "Customer_ID": 135
+  },
+  {
+    "Shipping_ID": 108,
+    "Status": "Delivered",
+    "Customer_ID": 161
+  },
+  {
+    "Shipping_ID": 109,
+    "Status": "Pending",
+    "Customer_ID": 150
+  },
+  {
+    "Shipping_ID": 110,
+    "Status": "Delivered",
+    "Customer_ID": 56
+  },
+  {
+    "Shipping_ID": 111,
+    "Status": "Pending",
+    "Customer_ID": 234
+  },
+  {
+    "Shipping_ID": 112,
+    "Status": "Pending",
+    "Customer_ID": 63
+  },
+  {
+    "Shipping_ID": 113,
+    "Status": "Delivered",
+    "Customer_ID": 191
+  },
+  {
+    "Shipping_ID": 114,
+    "Status": "Pending",
+    "Customer_ID": 171
+  },
+  {
+    "Shipping_ID": 115,
+    "Status": "Delivered",
+    "Customer_ID": 110
+  },
+  {
+    "Shipping_ID": 116,
+    "Status": "Pending",
+    "Customer_ID": 234
+  },
+  {
+    "Shipping_ID": 117,
+    "Status": "Pending",
+    "Customer_ID": 246
+  },
+  {
+    "Shipping_ID": 118,
+    "Status": "Delivered",
+    "Customer_ID": 173
+  },
+  {
+    "Shipping_ID": 119,
+    "Status": "Pending",
+    "Customer_ID": 21
+  },
+  {
+    "Shipping_ID": 120,
+    "Status": "Delivered",
+    "Customer_ID": 104
+  },
+  {
+    "Shipping_ID": 121,
+    "Status": "Pending",
+    "Customer_ID": 216
+  },
+  {
+    "Shipping_ID": 122,
+    "Status": "Pending",
+    "Customer_ID": 98
+  },
+  {
+    "Shipping_ID": 123,
+    "Status": "Delivered",
+    "Customer_ID": 141
+  },
+  {
+    "Shipping_ID": 124,
+    "Status": "Pending",
+    "Customer_ID": 201
+  },
+  {
+    "Shipping_ID": 125,
+    "Status": "Delivered",
+    "Customer_ID": 192
+  },
+  {
+    "Shipping_ID": 126,
+    "Status": "Pending",
+    "Customer_ID": 91
+  },
+  {
+    "Shipping_ID": 127,
+    "Status": "Pending",
+    "Customer_ID": 50
+  },
+  {
+    "Shipping_ID": 128,
+    "Status": "Delivered",
+    "Customer_ID": 40
+  },
+  {
+    "Shipping_ID": 129,
+    "Status": "Pending",
+    "Customer_ID": 72
+  },
+  {
+    "Shipping_ID": 130,
+    "Status": "Delivered",
+    "Customer_ID": 128
+  },
+  {
+    "Shipping_ID": 131,
+    "Status": "Pending",
+    "Customer_ID": 90
+  },
+  {
+    "Shipping_ID": 132,
+    "Status": "Pending",
+    "Customer_ID": 22
+  },
+  {
+    "Shipping_ID": 133,
+    "Status": "Delivered",
+    "Customer_ID": 189
+  },
+  {
+    "Shipping_ID": 134,
+    "Status": "Pending",
+    "Customer_ID": 226
+  },
+  {
+    "Shipping_ID": 135,
+    "Status": "Delivered",
+    "Customer_ID": 114
+  },
+  {
+    "Shipping_ID": 136,
+    "Status": "Pending",
+    "Customer_ID": 90
+  },
+  {
+    "Shipping_ID": 137,
+    "Status": "Pending",
+    "Customer_ID": 69
+  },
+  {
+    "Shipping_ID": 138,
+    "Status": "Delivered",
+    "Customer_ID": 100
+  },
+  {
+    "Shipping_ID": 139,
+    "Status": "Pending",
+    "Customer_ID": 47
+  },
+  {
+    "Shipping_ID": 140,
+    "Status": "Delivered",
+    "Customer_ID": 129
+  },
+  {
+    "Shipping_ID": 141,
+    "Status": "Pending",
+    "Customer_ID": 26
+  },
+  {
+    "Shipping_ID": 142,
+    "Status": "Pending",
+    "Customer_ID": 89
+  },
+  {
+    "Shipping_ID": 143,
+    "Status": "Delivered",
+    "Customer_ID": 77
+  },
+  {
+    "Shipping_ID": 144,
+    "Status": "Pending",
+    "Customer_ID": 3
+  },
+  {
+    "Shipping_ID": 145,
+    "Status": "Delivered",
+    "Customer_ID": 242
+  },
+  {
+    "Shipping_ID": 146,
+    "Status": "Pending",
+    "Customer_ID": 35
+  },
+  {
+    "Shipping_ID": 147,
+    "Status": "Pending",
+    "Customer_ID": 195
+  },
+  {
+    "Shipping_ID": 148,
+    "Status": "Delivered",
+    "Customer_ID": 15
+  },
+  {
+    "Shipping_ID": 149,
+    "Status": "Pending",
+    "Customer_ID": 117
+  },
+  {
+    "Shipping_ID": 150,
+    "Status": "Delivered",
+    "Customer_ID": 78
+  },
+  {
+    "Shipping_ID": 151,
+    "Status": "Pending",
+    "Customer_ID": 106
+  },
+  {
+    "Shipping_ID": 152,
+    "Status": "Pending",
+    "Customer_ID": 85
+  },
+  {
+    "Shipping_ID": 153,
+    "Status": "Delivered",
+    "Customer_ID": 185
+  },
+  {
+    "Shipping_ID": 154,
+    "Status": "Pending",
+    "Customer_ID": 10
+  },
+  {
+    "Shipping_ID": 155,
+    "Status": "Delivered",
+    "Customer_ID": 195
+  },
+  {
+    "Shipping_ID": 156,
+    "Status": "Pending",
+    "Customer_ID": 30
+  },
+  {
+    "Shipping_ID": 157,
+    "Status": "Pending",
+    "Customer_ID": 15
+  },
+  {
+    "Shipping_ID": 158,
+    "Status": "Delivered",
+    "Customer_ID": 118
+  },
+  {
+    "Shipping_ID": 159,
+    "Status": "Pending",
+    "Customer_ID": 87
+  },
+  {
+    "Shipping_ID": 160,
+    "Status": "Delivered",
+    "Customer_ID": 23
+  },
+  {
+    "Shipping_ID": 161,
+    "Status": "Pending",
+    "Customer_ID": 128
+  },
+  {
+    "Shipping_ID": 162,
+    "Status": "Pending",
+    "Customer_ID": 248
+  },
+  {
+    "Shipping_ID": 163,
+    "Status": "Delivered",
+    "Customer_ID": 220
+  },
+  {
+    "Shipping_ID": 164,
+    "Status": "Pending",
+    "Customer_ID": 230
+  },
+  {
+    "Shipping_ID": 165,
+    "Status": "Delivered",
+    "Customer_ID": 219
+  },
+  {
+    "Shipping_ID": 166,
+    "Status": "Pending",
+    "Customer_ID": 189
+  },
+  {
+    "Shipping_ID": 167,
+    "Status": "Pending",
+    "Customer_ID": 185
+  },
+  {
+    "Shipping_ID": 168,
+    "Status": "Delivered",
+    "Customer_ID": 9
+  },
+  {
+    "Shipping_ID": 169,
+    "Status": "Pending",
+    "Customer_ID": 133
+  },
+  {
+    "Shipping_ID": 170,
+    "Status": "Delivered",
+    "Customer_ID": 224
+  },
+  {
+    "Shipping_ID": 171,
+    "Status": "Pending",
+    "Customer_ID": 215
+  },
+  {
+    "Shipping_ID": 172,
+    "Status": "Pending",
+    "Customer_ID": 79
+  },
+  {
+    "Shipping_ID": 173,
+    "Status": "Delivered",
+    "Customer_ID": 140
+  },
+  {
+    "Shipping_ID": 174,
+    "Status": "Pending",
+    "Customer_ID": 120
+  },
+  {
+    "Shipping_ID": 175,
+    "Status": "Delivered",
+    "Customer_ID": 168
+  },
+  {
+    "Shipping_ID": 176,
+    "Status": "Pending",
+    "Customer_ID": 47
+  },
+  {
+    "Shipping_ID": 177,
+    "Status": "Pending",
+    "Customer_ID": 143
+  },
+  {
+    "Shipping_ID": 178,
+    "Status": "Delivered",
+    "Customer_ID": 140
+  },
+  {
+    "Shipping_ID": 179,
+    "Status": "Pending",
+    "Customer_ID": 27
+  },
+  {
+    "Shipping_ID": 180,
+    "Status": "Delivered",
+    "Customer_ID": 35
+  },
+  {
+    "Shipping_ID": 181,
+    "Status": "Pending",
+    "Customer_ID": 194
+  },
+  {
+    "Shipping_ID": 182,
+    "Status": "Pending",
+    "Customer_ID": 170
+  },
+  {
+    "Shipping_ID": 183,
+    "Status": "Delivered",
+    "Customer_ID": 12
+  },
+  {
+    "Shipping_ID": 184,
+    "Status": "Pending",
+    "Customer_ID": 189
+  },
+  {
+    "Shipping_ID": 185,
+    "Status": "Delivered",
+    "Customer_ID": 236
+  },
+  {
+    "Shipping_ID": 186,
+    "Status": "Pending",
+    "Customer_ID": 103
+  },
+  {
+    "Shipping_ID": 187,
+    "Status": "Pending",
+    "Customer_ID": 100
+  },
+  {
+    "Shipping_ID": 188,
+    "Status": "Delivered",
+    "Customer_ID": 137
+  },
+  {
+    "Shipping_ID": 189,
+    "Status": "Pending",
+    "Customer_ID": 157
+  },
+  {
+    "Shipping_ID": 190,
+    "Status": "Delivered",
+    "Customer_ID": 154
+  },
+  {
+    "Shipping_ID": 191,
+    "Status": "Pending",
+    "Customer_ID": 158
+  },
+  {
+    "Shipping_ID": 192,
+    "Status": "Pending",
+    "Customer_ID": 67
+  },
+  {
+    "Shipping_ID": 193,
+    "Status": "Delivered",
+    "Customer_ID": 205
+  },
+  {
+    "Shipping_ID": 194,
+    "Status": "Pending",
+    "Customer_ID": 38
+  },
+  {
+    "Shipping_ID": 195,
+    "Status": "Delivered",
+    "Customer_ID": 229
+  },
+  {
+    "Shipping_ID": 196,
+    "Status": "Pending",
+    "Customer_ID": 151
+  },
+  {
+    "Shipping_ID": 197,
+    "Status": "Pending",
+    "Customer_ID": 1
+  },
+  {
+    "Shipping_ID": 198,
+    "Status": "Delivered",
+    "Customer_ID": 100
+  },
+  {
+    "Shipping_ID": 199,
+    "Status": "Pending",
+    "Customer_ID": 38
+  },
+  {
+    "Shipping_ID": 200,
+    "Status": "Delivered",
+    "Customer_ID": 8
+  },
+  {
+    "Shipping_ID": 201,
+    "Status": "Pending",
+    "Customer_ID": 209
+  },
+  {
+    "Shipping_ID": 202,
+    "Status": "Pending",
+    "Customer_ID": 156
+  },
+  {
+    "Shipping_ID": 203,
+    "Status": "Delivered",
+    "Customer_ID": 242
+  },
+  {
+    "Shipping_ID": 204,
+    "Status": "Pending",
+    "Customer_ID": 118
+  },
+  {
+    "Shipping_ID": 205,
+    "Status": "Delivered",
+    "Customer_ID": 120
+  },
+  {
+    "Shipping_ID": 206,
+    "Status": "Pending",
+    "Customer_ID": 20
+  },
+  {
+    "Shipping_ID": 207,
+    "Status": "Pending",
+    "Customer_ID": 220
+  },
+  {
+    "Shipping_ID": 208,
+    "Status": "Delivered",
+    "Customer_ID": 154
+  },
+  {
+    "Shipping_ID": 209,
+    "Status": "Pending",
+    "Customer_ID": 91
+  },
+  {
+    "Shipping_ID": 210,
+    "Status": "Delivered",
+    "Customer_ID": 8
+  },
+  {
+    "Shipping_ID": 211,
+    "Status": "Pending",
+    "Customer_ID": 125
+  },
+  {
+    "Shipping_ID": 212,
+    "Status": "Pending",
+    "Customer_ID": 178
+  },
+  {
+    "Shipping_ID": 213,
+    "Status": "Delivered",
+    "Customer_ID": 33
+  },
+  {
+    "Shipping_ID": 214,
+    "Status": "Pending",
+    "Customer_ID": 190
+  },
+  {
+    "Shipping_ID": 215,
+    "Status": "Delivered",
+    "Customer_ID": 240
+  },
+  {
+    "Shipping_ID": 216,
+    "Status": "Pending",
+    "Customer_ID": 50
+  },
+  {
+    "Shipping_ID": 217,
+    "Status": "Pending",
+    "Customer_ID": 69
+  },
+  {
+    "Shipping_ID": 218,
+    "Status": "Delivered",
+    "Customer_ID": 14
+  },
+  {
+    "Shipping_ID": 219,
+    "Status": "Pending",
+    "Customer_ID": 80
+  },
+  {
+    "Shipping_ID": 220,
+    "Status": "Delivered",
+    "Customer_ID": 164
+  },
+  {
+    "Shipping_ID": 221,
+    "Status": "Pending",
+    "Customer_ID": 204
+  },
+  {
+    "Shipping_ID": 222,
+    "Status": "Pending",
+    "Customer_ID": 85
+  },
+  {
+    "Shipping_ID": 223,
+    "Status": "Delivered",
+    "Customer_ID": 172
+  },
+  {
+    "Shipping_ID": 224,
+    "Status": "Pending",
+    "Customer_ID": 102
+  },
+  {
+    "Shipping_ID": 225,
+    "Status": "Delivered",
+    "Customer_ID": 13
+  },
+  {
+    "Shipping_ID": 226,
+    "Status": "Pending",
+    "Customer_ID": 97
+  },
+  {
+    "Shipping_ID": 227,
+    "Status": "Pending",
+    "Customer_ID": 192
+  },
+  {
+    "Shipping_ID": 228,
+    "Status": "Delivered",
+    "Customer_ID": 219
+  },
+  {
+    "Shipping_ID": 229,
+    "Status": "Pending",
+    "Customer_ID": 173
+  },
+  {
+    "Shipping_ID": 230,
+    "Status": "Delivered",
+    "Customer_ID": 216
+  },
+  {
+    "Shipping_ID": 231,
+    "Status": "Pending",
+    "Customer_ID": 216
+  },
+  {
+    "Shipping_ID": 232,
+    "Status": "Pending",
+    "Customer_ID": 18
+  },
+  {
+    "Shipping_ID": 233,
+    "Status": "Delivered",
+    "Customer_ID": 169
+  },
+  {
+    "Shipping_ID": 234,
+    "Status": "Pending",
+    "Customer_ID": 214
+  },
+  {
+    "Shipping_ID": 235,
+    "Status": "Delivered",
+    "Customer_ID": 107
+  },
+  {
+    "Shipping_ID": 236,
+    "Status": "Pending",
+    "Customer_ID": 188
+  },
+  {
+    "Shipping_ID": 237,
+    "Status": "Pending",
+    "Customer_ID": 234
+  },
+  {
+    "Shipping_ID": 238,
+    "Status": "Delivered",
+    "Customer_ID": 158
+  },
+  {
+    "Shipping_ID": 239,
+    "Status": "Pending",
+    "Customer_ID": 173
+  },
+  {
+    "Shipping_ID": 240,
+    "Status": "Delivered",
+    "Customer_ID": 10
+  },
+  {
+    "Shipping_ID": 241,
+    "Status": "Pending",
+    "Customer_ID": 22
+  },
+  {
+    "Shipping_ID": 242,
+    "Status": "Pending",
+    "Customer_ID": 101
+  },
+  {
+    "Shipping_ID": 243,
+    "Status": "Delivered",
+    "Customer_ID": 135
+  },
+  {
+    "Shipping_ID": 244,
+    "Status": "Pending",
+    "Customer_ID": 21
+  },
+  {
+    "Shipping_ID": 245,
+    "Status": "Delivered",
+    "Customer_ID": 199
+  },
+  {
+    "Shipping_ID": 246,
+    "Status": "Pending",
+    "Customer_ID": 171
+  },
+  {
+    "Shipping_ID": 247,
+    "Status": "Pending",
+    "Customer_ID": 40
+  },
+  {
+    "Shipping_ID": 248,
+    "Status": "Delivered",
+    "Customer_ID": 37
+  },
+  {
+    "Shipping_ID": 249,
+    "Status": "Pending",
+    "Customer_ID": 55
+  },
+  {
+    "Shipping_ID": 250,
+    "Status": "Delivered",
+    "Customer_ID": 27
+  }
+]
