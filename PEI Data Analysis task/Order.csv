@@ -1,0 +1,251 @@
+Order_ID,Item,Amount,Customer_ID
+1,Keyboard,400,139
+2,Mouse,300,250
+3,Monitor,12000,239
+4,Keyboard,400,153
+5,Mousepad,250,153
+6,Harddisk,5000,164
+7,Webcam,350,124
+8,Mousepad,200,98
+9,DDR RAM,1500,119
+10,Headset,900,159
+11,Keyboard,400,167
+12,Mouse,300,157
+13,Monitor,12000,49
+14,Keyboard,400,234
+15,Mousepad,250,202
+16,Harddisk,5000,181
+17,Webcam,350,15
+18,Mousepad,200,177
+19,DDR RAM,1500,5
+20,Headset,900,225
+21,Keyboard,400,171
+22,Mouse,300,67
+23,Monitor,12000,68
+24,Keyboard,400,86
+25,Mousepad,250,8
+26,Harddisk,5000,56
+27,Webcam,350,60
+28,Mousepad,200,188
+29,DDR RAM,1500,33
+30,Headset,900,157
+31,Keyboard,400,87
+32,Mouse,300,174
+33,Monitor,12000,158
+34,Keyboard,400,134
+35,Mousepad,250,209
+36,Harddisk,5000,52
+37,Webcam,350,92
+38,Mousepad,200,105
+39,DDR RAM,1500,99
+40,Headset,900,249
+41,Keyboard,400,200
+42,Mouse,300,180
+43,Monitor,12000,61
+44,Keyboard,400,126
+45,Mousepad,250,172
+46,Harddisk,5000,81
+47,Webcam,350,78
+48,Mousepad,200,222
+49,DDR RAM,1500,194
+50,Headset,900,150
+51,Keyboard,400,146
+52,Mouse,300,192
+53,Monitor,12000,193
+54,Keyboard,400,24
+55,Mousepad,250,125
+56,Harddisk,5000,228
+57,Webcam,350,101
+58,Mousepad,200,64
+59,DDR RAM,1500,164
+60,Headset,900,244
+61,Keyboard,400,118
+62,Mouse,300,96
+63,Monitor,12000,221
+64,Keyboard,400,190
+65,Mousepad,250,198
+66,Harddisk,5000,30
+67,Webcam,350,201
+68,Mousepad,200,144
+69,DDR RAM,1500,136
+70,Headset,900,50
+71,Keyboard,400,70
+72,Mouse,300,89
+73,Monitor,12000,151
+74,Keyboard,400,112
+75,Mousepad,250,70
+76,Harddisk,5000,38
+77,Webcam,350,87
+78,Mousepad,200,211
+79,DDR RAM,1500,249
+80,Headset,900,238
+81,Keyboard,400,247
+82,Mouse,300,156
+83,Monitor,12000,129
+84,Keyboard,400,39
+85,Mousepad,250,193
+86,Harddisk,5000,124
+87,Webcam,350,108
+88,Mousepad,200,91
+89,DDR RAM,1500,193
+90,Headset,900,161
+91,Keyboard,400,99
+92,Mouse,300,145
+93,Monitor,12000,229
+94,Keyboard,400,80
+95,Mousepad,250,172
+96,Harddisk,5000,129
+97,Webcam,350,163
+98,Mousepad,200,195
+99,DDR RAM,1500,86
+100,Headset,900,231
+101,Keyboard,400,226
+102,Mouse,300,68
+103,Monitor,12000,242
+104,Keyboard,400,53
+105,Mousepad,250,107
+106,Harddisk,5000,119
+107,Webcam,350,17
+108,Mousepad,200,152
+109,DDR RAM,1500,8
+110,Headset,900,32
+111,Keyboard,400,243
+112,Mouse,300,143
+113,Monitor,12000,167
+114,Keyboard,400,69
+115,Mousepad,250,186
+116,Harddisk,5000,75
+117,Webcam,350,8
+118,Mousepad,200,4
+119,DDR RAM,1500,184
+120,Headset,900,96
+121,Keyboard,400,35
+122,Mouse,300,73
+123,Monitor,12000,131
+124,Keyboard,400,151
+125,Mousepad,250,249
+126,Harddisk,5000,47
+127,Webcam,350,60
+128,Mousepad,200,191
+129,DDR RAM,1500,107
+130,Headset,900,13
+131,Keyboard,400,70
+132,Mouse,300,183
+133,Monitor,12000,98
+134,Keyboard,400,23
+135,Mousepad,250,95
+136,Harddisk,5000,123
+137,Webcam,350,103
+138,Mousepad,200,63
+139,DDR RAM,1500,96
+140,Headset,900,138
+141,Keyboard,400,59
+142,Mouse,300,84
+143,Monitor,12000,143
+144,Keyboard,400,10
+145,Mousepad,250,53
+146,Harddisk,5000,247
+147,Webcam,350,232
+148,Mousepad,200,229
+149,DDR RAM,1500,20
+150,Headset,900,89
+151,Keyboard,400,208
+152,Mouse,300,47
+153,Monitor,12000,23
+154,Keyboard,400,114
+155,Mousepad,250,247
+156,Harddisk,5000,71
+157,Webcam,350,101
+158,Mousepad,200,8
+159,DDR RAM,1500,172
+160,Headset,900,246
+161,Keyboard,400,89
+162,Mouse,300,134
+163,Monitor,12000,166
+164,Keyboard,400,85
+165,Mousepad,250,221
+166,Harddisk,5000,12
+167,Webcam,350,143
+168,Mousepad,200,193
+169,DDR RAM,1500,236
+170,Headset,900,214
+171,Keyboard,400,55
+172,Mouse,300,122
+173,Monitor,12000,13
+174,Keyboard,400,181
+175,Mousepad,250,203
+176,Harddisk,5000,159
+177,Webcam,350,63
+178,Mousepad,200,94
+179,DDR RAM,1500,67
+180,Headset,900,86
+181,Keyboard,400,23
+182,Mouse,300,97
+183,Monitor,12000,55
+184,Keyboard,400,146
+185,Mousepad,250,66
+186,Harddisk,5000,166
+187,Webcam,350,117
+188,Mousepad,200,249
+189,DDR RAM,1500,195
+190,Headset,900,197
+191,Keyboard,400,70
+192,Mouse,300,218
+193,Monitor,12000,92
+194,Keyboard,400,235
+195,Mousepad,250,24
+196,Harddisk,5000,196
+197,Webcam,350,166
+198,Mousepad,200,57
+199,DDR RAM,1500,229
+200,Headset,900,178
+201,Keyboard,400,109
+202,Mouse,300,98
+203,Monitor,12000,207
+204,Keyboard,400,28
+205,Mousepad,250,208
+206,Harddisk,5000,57
+207,Webcam,350,235
+208,Mousepad,200,29
+209,DDR RAM,1500,40
+210,Headset,900,106
+211,Keyboard,400,239
+212,Mouse,300,103
+213,Monitor,12000,118
+214,Keyboard,400,92
+215,Mousepad,250,176
+216,Harddisk,5000,85
+217,Webcam,350,78
+218,Mousepad,200,151
+219,DDR RAM,1500,97
+220,Headset,900,223
+221,Keyboard,400,198
+222,Mouse,300,238
+223,Monitor,12000,96
+224,Keyboard,400,221
+225,Mousepad,250,113
+226,Harddisk,5000,65
+227,Webcam,350,134
+228,Mousepad,200,153
+229,DDR RAM,1500,57
+230,Headset,900,111
+231,Keyboard,400,162
+232,Mouse,300,190
+233,Monitor,12000,206
+234,Keyboard,400,13
+235,Mousepad,250,37
+236,Harddisk,5000,102
+237,Webcam,350,157
+238,Mousepad,200,200
+239,DDR RAM,1500,223
+240,Headset,900,101
+241,Keyboard,400,224
+242,Mouse,300,63
+243,Monitor,12000,123
+244,Keyboard,400,215
+245,Mousepad,250,50
+246,Harddisk,5000,186
+247,Webcam,350,135
+248,Mousepad,200,110
+249,DDR RAM,1500,176
+250,Headset,900,223
